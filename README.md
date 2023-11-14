@@ -1,0 +1,2 @@
+# PyqtGpt
+For fun
